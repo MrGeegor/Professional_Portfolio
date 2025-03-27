@@ -1,18 +1,18 @@
 EU_NuclearWeapons
 State;Military Base;Base Type;Transportation vehicle;Status;Type of nuclear head;Delivery mode;Estimated number of nuclear heads;Latitude;Longitude
-Belgium;Kleine Brogel;Air Base;Airplane;11 storage systems,
-10-20 bombs;B61-12;Air to ground;15;51.169876515902246;5.470122097607789
-Germany;Fliegerhorst Büchel ;Air Base;Airplane;11 storage systems,
-10-20 bombs;B61-12;Air to ground;15;50.17631265040743;7.06403138221628
-Germany;Ramstein Air Base;Air Base;Airplane;55 storage systems,
+Belgium;Kleine Brogel;Air Base;Airplane;"11 storage systems,
+10-20 bombs";B61-12;Air to ground;15;51.169876515902246;5.470122097607789
+Germany;Fliegerhorst Büchel ;Air Base;Airplane;"11 storage systems,
+10-20 bombs";B61-12;Air to ground;15;50.17631265040743;7.06403138221628
+Germany;Ramstein Air Base;Air Base;Airplane;"55 storage systems,
 currently no weapons
-stored;B61-12;Air to ground;0;49.439967793396896;7.596436597528101
-Greece ;Araxos;Air Base;Airplane;11 storage systems,
+stored";B61-12;Air to ground;0;49.439967793396896;7.596436597528101
+Greece ;Araxos;Air Base;Airplane;"11 storage systems,
 currently no weapons
-stored;B61-12;Air to ground;0;37.92676111972099;21.290843604703756
-United Kingdom;Lakenheath;Air Base;Airplane;33 storage systems,
+stored";B61-12;Air to ground;0;37.92676111972099;21.290843604703756
+United Kingdom;Lakenheath;Air Base;Airplane;"33 storage systems,
 currently no weapons
-stored;B61-12;Air to ground;0;52.39082812998078;0.5373560163365757
+stored";B61-12;Air to ground;0;52.39082812998078;0.5373560163365757
 Italy;Aviano;Air Base;Airplane;18 storage systems;B61-12;Air to ground;50;46.030576132169905;12.61373853593828
 Italy;Ghedi Torre;Air Base;Airplane;11 storage systems;B61-12;Air to ground;15;45.43655380178095;10.283348663584952
 Netherlands;VolkeI;Air Base;Airplane;11 storage systems;B61-12;Air to ground;15;51.65614787491996;5.674647689837427
