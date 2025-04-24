@@ -4,4 +4,5 @@ I have both Data Science and Agile Delivery chops, which you'll see reflected in
 In case you are interested in any of the solutions proposed here, get in touch over LinkedIn! 
 
 Kind regards 
-Thierry Baudez
+
+MrGeegor
