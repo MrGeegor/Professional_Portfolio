@@ -1,0 +1,16 @@
+Thanks for checking out my work in the Mostly AI Challenge, where I participated to be selected as their next AI Content Manager! 
+TLDR: I ended up in the second place. Regardless, it was a lot of fun and it really pushed me to think about data science and content management differently. 
+
+Context of the challenge: 
+Mostly AI specialises in creating synthetic data sets, which offers all types of advantages for data processing. 
+The mission: Within 48 hours create materials targetted at technical and business users on using a multi-table dataset to enable time-series analysis with SDK and Assistant. 
+
+In this folder are included: 
+* The briefing received at the start of the challenge
+* A Jupyter Notebook 
+* 2 videos: 
+** No connector: I could not get the connectors to work properly for a good while 
+** Incl connector: finally I got the connector to work properly and could still record some footage before the deadline, which I then mixed into the original video → In a real-life scenario with proper time allocation I would have recorded the full video again. 
+* A prompt example in pdf format. 
+* An Archive folder containing the CSV files used in the Jupyter Notebook
+* A debriefing presentation in PDF format where I present the thought processes behind the submitted materials. 
